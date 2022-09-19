@@ -1,5 +1,7 @@
 # Minecraft_ConfigName_Spigot
 config.ymlでプレイヤーの表示名を変更
+<br>
+SpigotMC 1.19
 
 #### Config.yml
 ```
