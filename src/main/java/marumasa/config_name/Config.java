@@ -1,6 +1,5 @@
 package marumasa.config_name;
 
-import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
 
 import java.util.HashMap;
