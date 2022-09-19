@@ -1,0 +1,4 @@
+name: ConfigName
+version: '${version}'
+main: marumasa.config_name.minecraft
+api-version: 1.19
