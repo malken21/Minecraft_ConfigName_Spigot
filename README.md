@@ -1,0 +1,2 @@
+# Minecraft_ConfigName_Spigot
+config.ymlでプレイヤーの表示名を変更
